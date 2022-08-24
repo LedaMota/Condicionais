@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Condicao\bin\Debug\Condicao.exe.config
+C:\WorkspaceLediane\Condicao\bin\Debug\Condicao.exe
+C:\WorkspaceLediane\Condicao\bin\Debug\Condicao.pdb
+C:\WorkspaceLediane\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Condicao\obj\Debug\Condicao.exe
+C:\WorkspaceLediane\Condicao\obj\Debug\Condicao.pdb
